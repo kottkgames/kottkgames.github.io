@@ -1,0 +1,62 @@
+.tex{
+  background-color: #ffffff;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: #FE302D;
+  background-size: cover;
+}
+
+
+
+
+
+
+.koli{
+  color: #4AB9FE;
+  background-color: #4AB9FE;
+  margin-left:200px;
+  margin-right:250px;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.koli:hover{
+  border: 10px solid #B90E00;
+}
+
+#kol{
+  background-color: #4AB9FE;
+  background-size: cover;
+}
+
+.xoli{
+  color: #4AB9FE;
+  background-color: #63FE0A;
+  margin-left:200px;
+  margin-right:250px;
+  padding: 15px;
+  margin-top: 20px;
+
+}
+
+.xoli:hover{
+  border: 10px solid #B90E00;
+  background-color: #FEDE41;
+}
+
+.moli{
+  color: #4AB9FE;
+  background-color: #FE7200;
+  margin-left:200px;
+  margin-right:250px;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.moli:hover{
+  border: 10px solid #B90E00;
+}
+
+a{
+  color:black;
+}
