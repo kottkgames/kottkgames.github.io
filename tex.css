@@ -11,50 +11,79 @@
 
 
 
-.koli{
-  color: #4AB9FE;
-  background-color: #4AB9FE;
-  margin-left:200px;
-  margin-right:250px;
-  padding: 15px;
-  margin-top: 20px;
+nav{
+    width: 960px;
+    margin: 0 auto;
 }
 
-.koli:hover{
-  border: 10px solid #B90E00;
+nav:before{
+    content:'';
+    display: block;
+    height: 50px;
+    width: 100%;
+    background: #00BAFE;
+    position: absolute;
+    left: 0;
+    z-index:-1;
 }
 
-#kol{
-  background-color: #4AB9FE;
-  background-size: cover;
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height:50px;
 }
 
-.xoli{
-  color: #4AB9FE;
-  background-color: #63FE0A;
-  margin-left:200px;
-  margin-right:250px;
-  padding: 15px;
-  margin-top: 20px;
-
+ul li{
+    float: left;
 }
 
-.xoli:hover{
-  border: 10px solid #B90E00;
-  background-color: #FEDE41;
+.menu1{
+    color:#fff;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration:none;
+    line-height:50px;
 }
 
-.moli{
-  color: #4AB9FE;
-  background-color: #FE7200;
-  margin-left:200px;
-  margin-right:250px;
-  padding: 15px;
-  margin-top: 20px;
+.menu2{
+    color:#fff;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration:none;
+    line-height:50px;
 }
 
-.moli:hover{
-  border: 10px solid #B90E00;
+.menu3{
+    color:#fff;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration:none;
+    line-height:50px;
+}
+
+.menu1:hover{
+    background: #FE002F;
+}
+
+.menu2:hover{
+    background: #FE002F;
+}
+
+.menu3:hover{
+    background: #FE002F;
+}
+
+.menu{
+    color:#00BAFE;
+    font-size: 18px;
+
 }
 
 a{
