@@ -26,7 +26,7 @@ nav:before{
     display: block;
     height: 50px;
     width: 100%;
-    background: #00BAFE;
+    background: #15FE00;
     position: absolute;
     left: 0;
     z-index:-1;
@@ -74,15 +74,15 @@ ul li{
 }
 
 .menu1:hover{
-    background: #FE002F;
+    background: #FE0400;
 }
 
 .menu2:hover{
-    background: #FE002F;
+    background: #FE0400;
 }
 
 .menu3:hover{
-    background: #FE002F;
+    background: #FE0400;
 }
 
 .menu{
