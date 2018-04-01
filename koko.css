@@ -1,0 +1,48 @@
+.form-row{
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+
+.form-row input{
+    float:right;
+    height: 19px;
+    line-height: 19px;
+    padding: 0 5px;
+    width: 287px;
+    border: 1px solid #abadb3;
+}
+
+.reg-form{
+    width: 416px;
+    margin: 0px auto;
+}
+
+.form-row textarea{
+    height: 90px;
+    line-height: 16px;
+    font-size: 12px;
+    padding: 0 5px;
+    width: 404px;
+    border: 1px solid #abadb3; 
+}
+
+.form-row [type=submit] {
+    padding: 5px;
+    height: 25px;
+    width: 100%;
+    line-height:10px;
+    background-color:#337ab7;
+    color:white;
+}
+
+.form-row [type=submit]:hover{
+    background: #186090;
+}
+
+*{
+    font-family: arial;
+    font-size:20px;
+}
+
+
+
