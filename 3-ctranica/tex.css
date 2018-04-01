@@ -21,7 +21,7 @@ nav:before{
     display: block;
     height: 50px;
     width: 100%;
-    background: #15FE00;
+    background: #FE0400;
     position: absolute;
     left: 0;
     z-index:-1;
@@ -68,16 +68,31 @@ ul li{
     line-height:50px;
 }
 
+.menu4{
+    color:#fff;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration:none;
+    line-height:50px;
+}
+
+
 .menu1:hover{
-    background: #FE002F;
+    background: #00BAFE;
 }
 
 .menu2:hover{
-    background: #FE002F;
+    background: #00BAFE;
 }
 
 .menu3:hover{
-    background: #FE002F;
+    background: #00BAFE;
+}
+
+.menu4:hover{
+    background: #00BAFE;
 }
 
 .menu{
@@ -89,4 +104,3 @@ ul li{
 a{
   color:black;
 }
-
