@@ -75,6 +75,17 @@ ul li{
     line-height:50px;
 }
 
+.menu4{
+    color:#fff;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration:none;
+    line-height:50px;
+}
+
+
 .menu1:hover{
     background: #00BAFE;
 }
@@ -84,6 +95,10 @@ ul li{
 }
 
 .menu3:hover{
+    background: #00BAFE;
+}
+
+.menu4:hover{
     background: #00BAFE;
 }
 
