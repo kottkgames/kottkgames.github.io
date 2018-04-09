@@ -2,7 +2,7 @@
   background-color: #ffffff;
   margin-left: 300px;
   margin-right: 300px;
-  background-color: #FE302D;
+  background-color: #50FE00;
   background-size: cover;
 }
 
@@ -21,7 +21,7 @@ nav:before{
     display: block;
     height: 50px;
     width: 100%;
-    background: #FE0400;
+    background: #50FE00;
     position: absolute;
     left: 0;
     z-index:-1;
