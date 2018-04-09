@@ -111,3 +111,32 @@ ul li{
 a{
   color:black;
 }
+
+.imgs{
+   width: 300px;
+   height: 100px;
+    margin-left: 30px;
+    
+}
+
+.but{
+   font-size:20px;
+   background-color: #4AB9FE;
+}
+
+.but:hover{
+    background-color: #FE002F;
+}
+
+.app{
+  border:5px solid  #4AB9FE;
+  margin-left: 100px;
+  margin-right: 150px;
+  color:black;
+  background-color: #4AB9FE;
+  font-size: 35px;
+}
+
+.sisi{
+    color:black
+}
