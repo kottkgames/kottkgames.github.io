@@ -119,6 +119,13 @@ a{
     
 }
 
+.imgs1{
+   width: 200px;
+   height: 200px;
+    margin-left: 30px;
+    
+}
+
 .but{
    font-size:20px;
    background-color: #4AB9FE;
@@ -139,4 +146,14 @@ a{
 
 .sisi{
     color:black
+}
+
+.mob{
+    margin-left: 30px;
+    border:5px solid  #4AB9FE;
+  margin-left: 100px;
+  margin-right: 150px;
+  color:black;
+  background-color: #4AB9FE;
+  font-size: 35px;
 }
